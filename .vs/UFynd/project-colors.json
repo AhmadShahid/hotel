@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eba99dd0-51eb-4d25-a897-3c5d3295e2d2": {
+      "ProjectGuid": "eba99dd0-51eb-4d25-a897-3c5d3295e2d2",
+      "DisplayName": "UFynd",
+      "ColorIndex": 0
+    },
+    "ffb24367-d53b-491a-9775-8f9e16b36f08": {
+      "ProjectGuid": "ffb24367-d53b-491a-9775-8f9e16b36f08",
+      "DisplayName": "UFynd.Domain",
+      "ColorIndex": 1
+    },
+    "65fcf0dd-9ed1-450e-9453-87f0ca59b23f": {
+      "ProjectGuid": "65fcf0dd-9ed1-450e-9453-87f0ca59b23f",
+      "DisplayName": "UFynd.Application",
+      "ColorIndex": 2
+    },
+    "fa7ae69f-82c4-4612-8a35-cbadd9853ba2": {
+      "ProjectGuid": "fa7ae69f-82c4-4612-8a35-cbadd9853ba2",
+      "DisplayName": "UFynd.Infrastructure",
+      "ColorIndex": 3
+    },
+    "21905cf2-1a57-4abf-9a58-46ba273edb35": {
+      "ProjectGuid": "21905cf2-1a57-4abf-9a58-46ba273edb35",
+      "DisplayName": "UFynd.API",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4229e28c-8eae-4c02-9446-cf08bd91a8a6": {
+      "ProjectGuid": "4229e28c-8eae-4c02-9446-cf08bd91a8a6",
+      "DisplayName": "UFynd.Common",
+      "ColorIndex": 5
+    },
+    "3d107e18-458a-4adf-992a-99eb20a9a9a5": {
+      "ProjectGuid": "3d107e18-458a-4adf-992a-99eb20a9a9a5",
+      "DisplayName": "UFynd.UnitTests",
+      "ColorIndex": 6
+    },
+    "5bd13676-5ad7-428c-9633-721a23bdf903": {
+      "ProjectGuid": "5bd13676-5ad7-428c-9633-721a23bdf903",
+      "DisplayName": "UFynd.UnitTest",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
